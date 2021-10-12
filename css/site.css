@@ -1,0 +1,36 @@
+h1 {
+  font-family: "helvetica";
+  color: Black;
+  font-size: 300%;
+  text-indent: 0px;
+  margin-left: 50px;
+  line-height: 0.8;
+}
+
+p {
+  font-family: "helvetica";
+  text-indent: 0px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+ul {
+  font-family: "helvetica";
+  text-indent: 0px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#content {
+  background-color: #ff99ff;
+  width: 500px;
+  min-height: 500px;
+  padding: 50px;
+  margin: 50px;
+  border: solid 10px #66ffff;
+  font-size: 20px
+}
+
+#my-portrait {
+    width: 300px;
+}
